@@ -1,2 +1,3 @@
-# africa-covid19-genomics
-Invite only repo to share code, data and info to reproduce.
+# Africa Covid19 Genomics
+
+This repo contains all the code, data and information needed to reproduce the analyses for the African genomic epidemiology manuscript.
